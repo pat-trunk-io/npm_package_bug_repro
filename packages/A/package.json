@@ -1,0 +1,7 @@
+{
+  "name": "A",
+  "private": true,
+  "dependencies": {
+    "typescript": "^5.4.5"
+  }
+}

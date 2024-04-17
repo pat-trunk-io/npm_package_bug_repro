@@ -1,0 +1,8 @@
+{
+  "name": "B",
+  "private": true,
+  "dependencies": {
+    "A": "workspace:*",
+    "execa": "^8.0.1"
+  }
+}
