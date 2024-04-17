@@ -3,6 +3,7 @@
 Success when:
 
 > pnpm i
+>
 > node packages/B/main.mjs
 
 Failure when:
